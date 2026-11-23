@@ -10,4 +10,6 @@ S="${WORKDIR}/snippets_library-${PV}"
 LICENSE="GPL-3"
 SLOT="0"
 
+KEYWORDS="amd64"
+
 BDEPEND="virtual/pkgconfig"

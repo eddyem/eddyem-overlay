@@ -19,6 +19,8 @@ DEPEND="
 DEPEND="${RDEPEND}"
 BDEPEND="virtual/pkgconfig"
 
+KEYWORDS="amd64"
+
 pkg_pretend() {
     # need C23 support
     if [[ ${MERGE_TYPE} != binary ]]; then

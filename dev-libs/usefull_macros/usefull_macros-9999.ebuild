@@ -9,4 +9,6 @@ EGIT_REPO_URI="https://github.com/eddyem/snippets_library.git"
 LICENSE="GPL-3"
 SLOT="0"
 
+KEYWORDS="~amd64"
+
 BDEPEND="virtual/pkgconfig"
